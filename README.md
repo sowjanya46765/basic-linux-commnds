@@ -9,3 +9,5 @@
 - touch(create a new file)
 - nano(edit a file)
 - cat(file description)
+##initialise the git
+- git init
